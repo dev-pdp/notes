@@ -36,30 +36,23 @@
   }
 ]
 ```
+
 ## VS Code Extensions
 
-Material Theme + Icons : material-theme-website.vercel.app
-
-Live Server : ritwickdey.github.io/vscode-live-server
-
-Prettier : prettier.io
+- [Material Theme + Icons](material-theme-website.vercel.app)
+- [Live Server](ritwickdey.github.io/vscode-live-server)
+- [Prettier](prettier.io)
 
 ## VS Code shortcuts
 
 
-Placeholder text : lorem
-
-HTML5 boilerplate / skeleton : !
-
-Insert and go to beginning of new line : ⌘ ⏎
-
-Duplicate line below : ⌥ ⇧ ▲
-
-Comment : ⌘ /
-
-Open command palette : ⌘ ⇧ P
-
-Wrap with abbreviation : ⌥ W (custom)
+- Placeholder text : `lorem`
+- HTML5 boilerplate / skeleton : `!`
+- Insert and go to beginning of new line : `⌘` `⏎`
+- Duplicate line below : `⌥` `⇧` `▲`
+- Comment : `⌘` `/`
+- Open command palette : `⌘` `⇧` `P`
+- Wrap with abbreviation : `⌥` `W` *(custom)*
 
 
 
