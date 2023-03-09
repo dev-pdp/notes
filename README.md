@@ -104,6 +104,8 @@ VS Code : code.visualstudio.com
 
 Emmet : emmet.io
 
+Wikipedia : wikipedia.org
+
 ## Common HTML Elements
 h1
 
