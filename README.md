@@ -49,7 +49,7 @@
 - Placeholder text : `lorem`
 - HTML5 boilerplate / skeleton : `!`
 - Insert and go to beginning of new line : `⌘` `⏎`
-- Duplicate line below : `⌥` `⇧` `▲`
+- Duplicate line below : `⌥` `⇧` `▼`
 - Comment : `⌘` `/`
 - Open command palette : `⌘` `⇧` `P`
 - Wrap with abbreviation : `⌥` `W` *(custom)*
@@ -154,12 +154,13 @@ b
 i
 
 ## MDN
-MDN : developer.mozilla.org
 
-HTML : developer.mozilla.org/en-US/docs/Web/HTML
+[MDN](developer.mozilla.org)
 
-HTML Elements Reference : developer.mozilla.org/en-US/docs/Web/HTML/Element
+[HTML](developer.mozilla.org/en-US/docs/Web/HTML)
 
-<p> : developer.mozilla.org/en-US/docs/Web/HTML/Element/p
+[HTML Elements Reference](developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
-<h1> – <h6> : developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements
+[The Paragraph Element](developer.mozilla.org/en-US/docs/Web/HTML/Element/p)
+
+[The Section Heading Elements](developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)
