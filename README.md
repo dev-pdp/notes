@@ -45,7 +45,7 @@
 
 ## VS Code shortcuts
 
-- Placeholder text : `lorem`
+- Placeholder text : `lorem`, `lorem100` (no. of words), or `p*4>lorem` (no. of paragraphs)
 - HTML5 boilerplate / skeleton : `!`
 - Insert and go to beginning of new line : `⌘` `⏎`
 - Duplicate line below : `⌥` `⇧` `▼`
