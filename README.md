@@ -131,14 +131,25 @@ Wikipedia : wikipedia.org
 - `<option>`
 - `<button>`
 - `<img>`
+- `<blockquote>`
+- `<abbr>`
+- `<cite>`
+- `<small>`
+- `<header>`
+- `<footer>`
+- `<aside>`
+- `<main>`
+- `<article>`
+- `<nav>`
+- `<section>`
+- `<details>`
 
-main
+Also :
 
-nav
-
-video
-
-span
+- `<span>`
+- `<b>`
+- `<i>`
+- `<video>`
 
 ## MDN
 
