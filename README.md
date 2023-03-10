@@ -144,6 +144,7 @@ Wikipedia : wikipedia.org
 - `<section>`
 - `<details>`
 - `<style>`
+- `<meta>`
 
 Also :
 
