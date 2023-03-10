@@ -99,33 +99,24 @@ Emmet : emmet.io
 Wikipedia : wikipedia.org
 
 ## Common HTML Elements
-h1
 
-h2
-
-h3
-
-h4
-
-h5
-
-h6
+- `<!DOCTYPE html>`
+- `<html>`
+- `<head>`
+- `<title>`
+- `<body>`
+- `<h1>` - `<h6>`
+- `<p>`
+- `<strong>`
+- `<em>`
+- `<a>`
+- `<ul>`
+- `<ol>`
+- `<li>`
 
 img
 
 div
-
-a
-
-li
-
-ul
-
-ol
-
-head
-
-body
 
 main
 
