@@ -45,7 +45,6 @@
 
 ## VS Code shortcuts
 
-
 - Placeholder text : `lorem`
 - HTML5 boilerplate / skeleton : `!`
 - Insert and go to beginning of new line : `⌘` `⏎`
@@ -54,21 +53,14 @@
 - Open command palette : `⌘` `⇧` `P`
 - Wrap with abbreviation : `⌥` `W` *(custom)*
 
-
-
 ## Chrome shortcuts
 
-
-View Source : ⌥ ⌘ U
-
-Developer Tools : ⌥ ⌘ I
-
-Inspect elements : ⌥ ⌘ C
-
-JavaScript Console : ⌥ ⌘ J
+- View Source : `⌥` `⌘` `U`
+- Developer Tools : `⌥` `⌘` `I` or `F12`
+- Inspect Elements : `⌥` `⌘` `C`
+- JavaScript Console : `⌥` `⌘` `J`
 
 ## External Links
-
 
 Postman : postman.com
 
