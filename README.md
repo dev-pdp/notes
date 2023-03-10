@@ -151,6 +151,7 @@ Also :
 - `<b>`
 - `<i>`
 - `<video>`
+- `<audio>`
 
 ## MDN
 
