@@ -129,8 +129,8 @@ Wikipedia : wikipedia.org
 - `<textarea>`
 - `<select>`
 - `<option>`
-
-img
+- `<button>`
+- `<img>`
 
 main
 
