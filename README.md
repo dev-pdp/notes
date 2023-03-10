@@ -107,6 +107,8 @@ Wikipedia : wikipedia.org
 - `<title>`
 - `<body>`
 - `<h1>` to `<h6>`
+- `<br>`
+- `<hr>`
 - `<p>`
 - `<strong>`
 - `<em>`
@@ -121,24 +123,22 @@ Wikipedia : wikipedia.org
 - `<tbody>`
 - `<td>`
 - `<form>`
+- `<div>`
+- `<label>`
+- `<input>`
+- `<textarea>`
+- `<select>`
+- `<option>`
 
 img
-
-div
 
 main
 
 nav
 
-input
-
 video
 
 span
-
-b
-
-i
 
 ## MDN
 
