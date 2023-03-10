@@ -101,11 +101,12 @@ Wikipedia : wikipedia.org
 ## Common HTML Elements
 
 - `<!DOCTYPE html>`
+- `<!-- Comment -->`
 - `<html>`
 - `<head>`
 - `<title>`
 - `<body>`
-- `<h1>` - `<h6>`
+- `<h1>` to `<h6>`
 - `<p>`
 - `<strong>`
 - `<em>`
@@ -113,6 +114,13 @@ Wikipedia : wikipedia.org
 - `<ul>`
 - `<ol>`
 - `<li>`
+- `<table>`
+- `<thead>`
+- `<tr>`
+- `<th>`
+- `<tbody>`
+- `<td>`
+- `<form>`
 
 img
 
@@ -121,10 +129,6 @@ div
 main
 
 nav
-
-form
-
-table
 
 input
 
