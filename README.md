@@ -143,6 +143,7 @@ Wikipedia : wikipedia.org
 - `<nav>`
 - `<section>`
 - `<details>`
+- `<style>`
 
 Also :
 
