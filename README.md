@@ -22,7 +22,8 @@
   "explorer.confirmDelete": false,
   "editor.linkedEditing": true,
   "editor.smoothScrolling": true,
-  "editor.scrollBeyondLastLine": false
+  "editor.scrollBeyondLastLine": false,
+  "liveServer.settings.donotVerifyTags": true
 }
 ```
 
@@ -62,43 +63,43 @@
 
 ## External Links
 
-Postman : postman.com
+[Postman](postman.com)
 
-CodePen : codepen.com
+[CodePen](codepen.com)
 
-GitHub : github.com
+[GitHub](github.com)
 
-Unsplash : unsplash.com
+[Unsplash](unsplash.com)
 
-MDN : developer.mozilla.org
+[MDN](developer.mozilla.org)
 
-Discord : discord.gg/NXZUVuFUjB
+[Discord](discord.gg/NXZUVuFUjB)
 
-YouTube : youtube.com/@ColtSteeleCode
+[YouTube](youtube.com/@ColtSteeleCode)
 
-Reddit : reddit.com
+[Reddit](reddit.com)
 
-Cube (CodePen) : codepen.io/bsehovac/pen/EMyWVv
+[Cube (CodePen)](codepen.io/bsehovac/pen/EMyWVv)
 
-Snap Card (CodePen) : codepen.io/josfabre/pen/poZdJga
+[Snap Card (CodePen)](codepen.io/josfabre/pen/poZdJga)
 
-Flex Cards (CodePen) : codepen.io/z-/pen/OBPJKK
+[Flex Cards (CodePen)](codepen.io/z-/pen/OBPJKK)
 
-Navigation Design (CodePen) : codepen.io/Saramazal/pen/LYyywNb
+[Navigation Design (CodePen)](codepen.io/Saramazal/pen/LYyywNb)
 
-City Map (CodePen) : codepen.io/jesperkc/pen/poZaxgN
+[City Map (CodePen)](codepen.io/jesperkc/pen/poZaxgN)
 
-Hangman Game (CodePen) : codepen.io/cathydutton/pen/JjpxMm
+[Hangman Game (CodePen)](codepen.io/cathydutton/pen/JjpxMm)
 
-Chrome : google.com/chrome
+[Chrome](google.com/chrome)
 
-VS Code : code.visualstudio.com
+[VS Code](code.visualstudio.com)
 
-Emmet : emmet.io
+[Emmet](emmet.io)
 
-Wikipedia : wikipedia.org
+[Wikipedia](wikipedia.org)
 
-## Common HTML Elements
+## Common HTML Elements & Attributes
 
 - `<!DOCTYPE html>`
 - `<!-- Comment -->`
@@ -113,6 +114,8 @@ Wikipedia : wikipedia.org
 - `<strong>`
 - `<em>`
 - `<a>`
+  - `href`
+  - `target`
 - `<ul>`
 - `<ol>`
 - `<li>`
@@ -124,13 +127,19 @@ Wikipedia : wikipedia.org
 - `<td>`
 - `<form>`
 - `<div>`
+  - `class`
+  - `id`
 - `<label>`
+  - `for`
 - `<input>`
+  - `type`
 - `<textarea>`
 - `<select>`
 - `<option>`
 - `<button>`
 - `<img>`
+  - `src`
+  - `alt`
 - `<blockquote>`
 - `<abbr>`
 - `<cite>`
