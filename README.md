@@ -52,6 +52,7 @@
 - Duplicate line below : `⌥` `⇧` `▼`
 - Comment : `⌘` `/`
 - Open command palette : `⌘` `⇧` `P`
+- Move current line up or down : `⌥` `▼` or `▲`
 - Wrap with abbreviation : `⌥` `W` *(custom)*
 
 ## Chrome shortcuts
@@ -158,10 +159,15 @@
 Also :
 
 - `<span>`
+  - `class`
+  - `id`
 - `<b>`
 - `<i>`
 - `<video>`
 - `<audio>`
+- `<abbr>`
+  - `title`
+- `<cite>`
 
 ## MDN
 
