@@ -171,12 +171,14 @@ Also :
   - `title`
 - `<cite>`
 
-## Common CSS Properties & Values
+## Common CSS Properties & Values/Functions
 
 - *`/* Comment */`*
 - `color`
+  - `rgb()`
+  - `rgba()`
 - `background-color`
-- 
+- `opacity`
 
 ## MDN
 
