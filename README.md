@@ -180,11 +180,11 @@ Also :
 
 ## MDN
 
-- [MDN](developer.mozilla.org)
-- [HTML](developer.mozilla.org/en-US/docs/Web/HTML)
-- [HTML Elements Reference](developer.mozilla.org/en-US/docs/Web/HTML/Element)
-- [The Paragraph Element](developer.mozilla.org/en-US/docs/Web/HTML/Element/p)
-- [The Section Heading Elements](developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)
-- [CSS](developer.mozilla.org/en-US/docs/Web/CSS)
-- [CSS Reference](developer.mozilla.org/en-US/docs/Web/CSS/Reference)
-- [Google Color Picker](g.co/kgs/jxq4ey)
+- [MDN](https://developer.mozilla.org)
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [HTML Elements Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+- [The Paragraph Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p)
+- [The Section Heading Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+- [Google Color Picker](https://g.co/kgs/jxq4ey)
