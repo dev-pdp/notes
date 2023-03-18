@@ -100,6 +100,8 @@
 
 [Wikipedia](wikipedia.org)
 
+[Parallax Scroll Animation](codepen.io/isladjan/pen/abdyPBw)
+
 ## Common HTML Elements & Attributes
 
 - `<!DOCTYPE html>`
