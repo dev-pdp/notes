@@ -179,6 +179,7 @@ Also :
   - `rgba()`
 - `background-color`
 - `opacity`
+- `border`
 
 ## MDN
 
