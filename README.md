@@ -173,6 +173,7 @@ Also :
 
 ## Common CSS Properties & Values
 
+- `/* Comment */`
 - `color`
 - `background-color`
 - 
@@ -184,3 +185,6 @@ Also :
 - [HTML Elements Reference](developer.mozilla.org/en-US/docs/Web/HTML/Element)
 - [The Paragraph Element](developer.mozilla.org/en-US/docs/Web/HTML/Element/p)
 - [The Section Heading Elements](developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)
+- [CSS](developer.mozilla.org/en-US/docs/Web/CSS)
+- [CSS Reference](developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+- 
