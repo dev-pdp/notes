@@ -105,7 +105,7 @@
 ## Common HTML Elements & Attributes
 
 - `<!DOCTYPE html>`
-- `<!-- Comment -->`
+- *`<!-- Comment -->`*
 - `<html>`
 - `<head>`
 - `<title>`
@@ -173,7 +173,7 @@ Also :
 
 ## Common CSS Properties & Values
 
-- `/* Comment */`
+- *`/* Comment */`*
 - `color`
 - `background-color`
 - 
