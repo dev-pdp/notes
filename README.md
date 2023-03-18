@@ -187,4 +187,4 @@ Also :
 - [The Section Heading Elements](developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)
 - [CSS](developer.mozilla.org/en-US/docs/Web/CSS)
 - [CSS Reference](developer.mozilla.org/en-US/docs/Web/CSS/Reference)
-- 
+- [Google Color Picker](g.co/kgs/jxq4ey)
