@@ -181,6 +181,14 @@ Also :
 - `opacity`
 - `border`
 
+## All Inherited CSS Properties
+
+- `accent-color`
+- `border-collapse`
+- `caption-side`
+- 
+- 
+
 ## MDN
 
 - [MDN](https://developer.mozilla.org)
