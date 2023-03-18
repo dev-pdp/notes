@@ -171,6 +171,12 @@ Also :
   - `title`
 - `<cite>`
 
+## Common CSS Properties
+
+- `color`
+- `background-color`
+- 
+
 ## MDN
 
 - [MDN](developer.mozilla.org)
