@@ -171,7 +171,7 @@ Also :
   - `title`
 - `<cite>`
 
-## Common CSS Properties
+## Common CSS Properties & Values
 
 - `color`
 - `background-color`
