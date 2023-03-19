@@ -180,14 +180,7 @@ Also :
 - `background-color`
 - `opacity`
 - `border`
-
-## All Inherited CSS Properties
-
-- `accent-color`
-- `border-collapse`
-- `caption-side`
-- 
-- 
+- `inherit` (Value)
 
 ## MDN
 
