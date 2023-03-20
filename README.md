@@ -192,6 +192,15 @@ Also :
   - `normal` value
   - `italic` value
 - `text-align`
+  - `center` value
+  - `start` value
+  - `end` value
+- `width`
+- `direction`
+- `letter-spacing`
+- `word-spacing`
+- `line-height`
+  - *`multiplier`* value
 
 ## MDN
 
