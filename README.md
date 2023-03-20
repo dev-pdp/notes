@@ -64,43 +64,43 @@
 
 ## External Links
 
-[Postman](postman.com)
+[Postman](https://postman.com)
 
-[CodePen](codepen.com)
+[CodePen](https://codepen.com)
 
-[GitHub](github.com)
+[GitHub](https://github.com)
 
-[Unsplash](unsplash.com)
+[Unsplash](https://unsplash.com)
 
-[MDN](developer.mozilla.org)
+[MDN](https://developer.mozilla.org)
 
-[Discord](discord.gg/NXZUVuFUjB)
+[Discord](https://discord.gg/NXZUVuFUjB)
 
-[YouTube](youtube.com/@ColtSteeleCode)
+[YouTube](https://youtube.com/@ColtSteeleCode)
 
-[Reddit](reddit.com)
+[Reddit](https://reddit.com)
 
-[Cube (CodePen)](codepen.io/bsehovac/pen/EMyWVv)
+[Cube (CodePen)](https://codepen.io/bsehovac/pen/EMyWVv)
 
-[Snap Card (CodePen)](codepen.io/josfabre/pen/poZdJga)
+[Snap Card (CodePen)](https://codepen.io/josfabre/pen/poZdJga)
 
-[Flex Cards (CodePen)](codepen.io/z-/pen/OBPJKK)
+[Flex Cards (CodePen)](https://codepen.io/z-/pen/OBPJKK)
 
-[Navigation Design (CodePen)](codepen.io/Saramazal/pen/LYyywNb)
+[Navigation Design (CodePen)](https://codepen.io/Saramazal/pen/LYyywNb)
 
-[City Map (CodePen)](codepen.io/jesperkc/pen/poZaxgN)
+[City Map (CodePen)](https://codepen.io/jesperkc/pen/poZaxgN)
 
-[Hangman Game (CodePen)](codepen.io/cathydutton/pen/JjpxMm)
+[Hangman Game (CodePen)](https://codepen.io/cathydutton/pen/JjpxMm)
 
-[Chrome](google.com/chrome)
+[Chrome](https://google.com/chrome)
 
-[VS Code](code.visualstudio.com)
+[VS Code](https://code.visualstudio.com)
 
-[Emmet](emmet.io)
+[Emmet](https://emmet.io)
 
-[Wikipedia](wikipedia.org)
+[Wikipedia](https://wikipedia.org)
 
-[Parallax Scroll Animation (CodePen)](codepen.io/isladjan/pen/abdyPBw)
+[Parallax Scroll Animation (CodePen)](https://codepen.io/isladjan/pen/abdyPBw)
 
 ## Common HTML Elements & Attributes
 
