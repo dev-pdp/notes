@@ -175,12 +175,12 @@ Also :
 
 - *`/* Comment */`*
 - `color`
-  - `rgb()` FUNCTION
-  - `rgba()` FUNCTION
+  - `rgb()` function
+  - `rgba()` function
 - `background-color`
 - `opacity`
 - `border`
-- `inherit` VALUE
+- `inherit` value
 - `font-family`
 - `font-size`
 - `font-weight`
