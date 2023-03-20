@@ -203,7 +203,7 @@ Also :
 - `word-spacing`
 - `line-height`
   - *`multiplier`* value
-- `@import` at rule
+- `@import` at-rule
 
 ## MDN
 
