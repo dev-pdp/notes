@@ -188,6 +188,9 @@ Also :
 - `font-weight`
   - `400` or `normal` value
   - `700` or `bold` value
+- `font-style`
+  - `normal` value
+  - `italic` value
 
 ## MDN
 
