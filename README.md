@@ -181,6 +181,7 @@ Also :
 - `opacity`
 - `border`
 - `inherit` (Value)
+- `font-family`
 
 ## MDN
 
