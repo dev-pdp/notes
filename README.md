@@ -191,6 +191,7 @@ Also :
 - `font-style`
   - `normal` value
   - `italic` value
+- `text-align`
 
 ## MDN
 
