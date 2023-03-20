@@ -182,6 +182,10 @@ Also :
 - `border`
 - `inherit` VALUE
 - `font-family`
+- `font-size`
+- `font-weight`
+  - `400` or `normal`
+  - `700` or `bold`
 
 ## MDN
 
