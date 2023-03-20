@@ -182,10 +182,12 @@ Also :
 - `border`
 - `inherit` value
 - `font-family`
+  - `serif` value
+  - `sans-serif` value
 - `font-size`
 - `font-weight`
-  - `400` or `normal`
-  - `700` or `bold`
+  - `400` or `normal` value
+  - `700` or `bold` value
 
 ## MDN
 
