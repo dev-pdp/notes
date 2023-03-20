@@ -174,13 +174,13 @@ Also :
 ## Common CSS Properties & Values/Functions
 
 - *`/* Comment */`*
-- `color`
-  - `rgb()` function
-  - `rgba()` function
-- `background-color`
-- `opacity`
-- `border`
-- `inherit` value
+- `color:`
+  - `rgb();` function
+  - `rgba();` function
+- `background-color:`
+- `opacity:`
+- `border:`
+- `inherit;` value
 - `font-family`
   - `serif` value
   - `sans-serif` value
@@ -203,6 +203,7 @@ Also :
 - `word-spacing`
 - `line-height`
   - *`multiplier`* value
+- `@import` at rule
 
 ## MDN
 
