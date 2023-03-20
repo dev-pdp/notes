@@ -197,6 +197,8 @@ Also :
   - `end` value
 - `width`
 - `direction`
+  - `ltr`
+  - `rtl`
 - `letter-spacing`
 - `word-spacing`
 - `line-height`
