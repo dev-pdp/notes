@@ -40,9 +40,9 @@
 
 ## VS Code Extensions
 
-- [Material Theme + Icons](material-theme-website.vercel.app)
-- [Live Server](ritwickdey.github.io/vscode-live-server)
-- [Prettier](prettier.io)
+- [Material Theme + Icons](https://material-theme-website.vercel.app)
+- [Live Server](https://ritwickdey.github.io/vscode-live-server)
+- [Prettier](https://prettier.io)
 
 ## VS Code shortcuts
 
