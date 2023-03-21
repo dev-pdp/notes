@@ -204,6 +204,7 @@ Also :
 - `line-height`
   - *`multiplier`* value
 - `@import` at-rule
+- `text-shadow`
 
 ## MDN
 
