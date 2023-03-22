@@ -157,12 +157,15 @@
 - `<details>`
 - `<style>`
 - `<meta>`
-
-Also :
-
+- `<link>`
+  - `rel`
+  - `href`
 - `<span>`
   - `class`
   - `id`
+
+Also :
+
 - `<b>`
 - `<i>`
 - `<video>`
