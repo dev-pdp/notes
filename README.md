@@ -222,41 +222,63 @@ Also :
 - [CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 - [Google Color Picker](https://g.co/kgs/jxq4ey)
 
-## Getting a Job
+## Get a Job
 
-- Code for 5 hours a day
-- Code for 45 minutes, then take a 5-10 minute break
+- Genius? No.
+- Need:
+1. Focus
+2. Determination
 
-- Average web developer salary $80k
-- Junior $60k -> Senior $100k
+### Why Web Developer?
 
-Advantages
+1. Work from home
+2. Great salary (average $80k)
+3. Work for yourself
 
-- 1. Work from home
-- 2. Great salary
-- 3. Work for yourself
+### Challenges
 
-Challenges
+1. V. competitive, 1st job hardest to get 
+2. Fast-paced industry, keep learning (curiosity, passion)
+3. Spend long time in front of computer (problem-solving)
 
-- 1. Very competitive
-- 2. Fast-paced industry
-- 3. Spend a long time in front of a computer
+### Degree?
 
-- Good employers care about your knowledge, not your degree
-- Choose front end or back end
-- Don't choose full stack until at least one year of experience
+- Good employers care about knowledge, not degree (competence)
 
-Five essential skills and time
-Spend 3-5 hours studying/coding every day
+### Path
 
-- 1. HTML, CSS and JS (3 months)
-- 2. React (2 months)
-- 3. Git (2 weeks)
+- Front end or back end
 
-6 months - start applying for junior front end developer jobs
+- Not full stack until one yr of exp
 
-Stand out from the crowd by learning:
+### Front End Path
 
-- 4. Sass (2 week)
-- 5. TypeScript (1 month)
+#### Skills
 
+1. HTML, CSS and JS (3m)
+2. React (2m)
+3. Git (2w)
+4. Sass (2w)*
+5. TypeScript (1m)*
+
+* Optional
+
+
+#### Time
+
+- Daily 3-5 hrs studying/coding
+
+- Spend 30% studying, 70% practicing
+
+- After HTML, CSS, JS, React & Git (6m) apply for junior front end dev jobs 
+
+- Stand out: learn Sass & TypeScript
+
+### Different Path?
+
+- Learn Python
+- Spend 2 hours a day coding
+- After 2-3 months be fairly comfortable writing basic programs
+- Then specialize for 3-6 months in web, mobile or data science
+- So spend 6-12 months studying and practicing to become job ready
+- First job: junior software developer
