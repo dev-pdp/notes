@@ -221,3 +221,42 @@ Also :
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 - [Google Color Picker](https://g.co/kgs/jxq4ey)
+
+## Getting a Job
+
+- Code for 5 hours a day
+- Code for 45 minutes, then take a 5-10 minute break
+
+- Average web developer salary $80k
+- Junior $60k -> Senior $100k
+
+Advantages
+
+- 1. Work from home
+- 2. Great salary
+- 3. Work for yourself
+
+Challenges
+
+- 1. Very competitive
+- 2. Fast-paced industry
+- 3. Spend a long time in front of a computer
+
+- Good employers care about your knowledge, not your degree
+- Choose front end or back end
+- Don't choose full stack until at least one year of experience
+
+Five essential skills and time
+Spend 3-5 hours studying/coding every day
+
+- 1. HTML, CSS and JS (3 months)
+- 2. React (2 months)
+- 3. Git (2 weeks)
+
+6 months - start applying for junior front end developer jobs
+
+Stand out from the crowd by learning:
+
+- 4. Sass (2 week)
+- 5. TypeScript (1 month)
+
