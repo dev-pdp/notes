@@ -23,7 +23,8 @@
   "editor.linkedEditing": true,
   "editor.smoothScrolling": true,
   "editor.scrollBeyondLastLine": false,
-  "liveServer.settings.donotVerifyTags": true
+  "liveServer.settings.donotVerifyTags": true,
+  "editor.bracketPairColorization.enabled": false
 }
 ```
 
