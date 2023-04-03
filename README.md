@@ -210,6 +210,11 @@ Also :
 - `text-shadow`
 - `margin-top`
 - `margin-left`
+- `text-transform`
+- `text-decoration-line`
+- `text-decoration-color`
+- `text-decoration-style`
+- `text-decoration`
 
 ## MDN
 
